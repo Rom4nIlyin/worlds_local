@@ -1,0 +1,6 @@
+# ignore files
+*
+
+# exclude from ignored files
+!NorthPalm.db
+!NorthPalm.fwl
